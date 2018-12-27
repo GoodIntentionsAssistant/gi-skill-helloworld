@@ -3,5 +3,5 @@
  */
 const Skill = require('../../../src/Skill/skill');
 
-module.exports = class HelloworldSkill extends Skill {
+module.exports = class HelloWorldSkill extends Skill {
 }
